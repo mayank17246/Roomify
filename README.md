@@ -1,4 +1,4 @@
-# House Party
+# Roomify
 
 Django React Application with Spotify API
 
