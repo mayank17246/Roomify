@@ -1,0 +1,13 @@
+.log
+*.pot
+*.pyc
+.env
+.env.staging
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+D:\Full-Stack\Spotify-Music-Controller\house_party\spotify\secrets.py
+
+# don't track virtualenv, ever!
+venv/
